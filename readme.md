@@ -16,3 +16,5 @@ $ node ski-main
 1. Find the "local summits", points higher than their neighbors. The longest path can only start from one of them
 2. Recursively find all the paths than can be made from each point
 3. Gets the best of these paths
+
+Runs in ~6s
